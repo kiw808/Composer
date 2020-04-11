@@ -1,0 +1,14 @@
+{
+    "name": "pierremuller/composer",
+    "description": "Composer quest project",
+    "authors": [
+        {
+            "name": "Pierre Muller",
+            "email": "pierremanu.muller@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    },
+    "require": {}
+}
